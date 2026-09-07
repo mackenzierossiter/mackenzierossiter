@@ -1,6 +1,3 @@
-  Mackenzie Rossiter  
-
-
 Mackenzie Rossiter
 ==================
 Hi I'm Mackenzie!  After college, I plan to work in the EdTech industry where I can continue to make a difference at the intersection of Tech and Education.
@@ -12,25 +9,6 @@ Hi I'm Mackenzie!  After college, I plan to work in the EdTech industry where I 
 * AI Literacy & Professional Development Student Assistant 
 * Lead CS Ambassador for JMU CS
 
-
-
-# My Skills
-
-### EdTech Tools 👩🏼‍💻👩🏼‍🏫
----------
-Lego Education, Scratch, Dash and Dot Robots, GearBot, TinkerCad, Finch Robots, Ozo Bot, Microbit 
-
-### Tech Tools 🛠️
----------
-Langfuse, LiteLLM, Git, Visual Studio Code, Bitbucket, Docker, Jira, Microsoft Office 365, Google Suite
-
-### AI Literacy Certifications 🤖
----------
-Anthropic Claude Code 101, Anthropic AI Fluency for Student
-
-### Languages 💻
----------
-JavaScript, HTML, CSS, Python, Java, C, R
 
 
 
@@ -59,6 +37,23 @@ JavaScript, HTML, CSS, Python, Java, C, R
     - Self Employed | June 2026 - Present
 
 
+# My Skills
+
+### EdTech Tools 👩🏼‍💻👩🏼‍🏫
+---------
+Lego Education, Scratch, Dash and Dot Robots, GearBot, TinkerCad, Finch Robots, Ozo Bot, Microbit 
+
+### Tech Tools 🛠️
+---------
+Langfuse, LiteLLM, Git, Visual Studio Code, Bitbucket, Docker, Jira, Microsoft Office 365, Google Suite
+
+### AI Literacy Certifications 🤖
+---------
+Anthropic Claude Code 101, Anthropic AI Fluency for Student
+
+### Languages 💻
+---------
+JavaScript, HTML, CSS, Python, Java, C, R
 
 
 STEM Outreach
