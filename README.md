@@ -1,5 +1,8 @@
 Mackenzie Rossiter
 ==================
+
+[Personal Website](mackenzierossiter.github.io) | [LinkedIn](linkedIn.com/mackenzierossiter)
+
 Hi I'm Mackenzie!  After college, I plan to work in the EdTech industry where I can continue to make a difference at the intersection of Tech and Education.
 
 ## About Me
