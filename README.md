@@ -15,7 +15,7 @@ Hi I'm Mackenzie!  After college, I plan to work in the EdTech industry where I 
 # Education + Tech Work Experience
 
 
-* Research Assistant - AIMe
+* Research Assistant - [AIMe](https://github.com/JMU-CS/aime)
 
     - James Madison University | May 2026 - Present
 
@@ -23,7 +23,7 @@ Hi I'm Mackenzie!  After college, I plan to work in the EdTech industry where I 
 
     - James Madison University | September 2026 - Present
 
-* STEAM Specialist, 
+* STEAM Specialist 
     - Sunrise Day Camp | June 2025, 2026 - August 2025, 2026
 
 
@@ -60,7 +60,7 @@ STEM Outreach
 =============
 
 
-<img src="images/ambassadorOutreach1.png" height = 100> <img src=images/stemCorp.jpeg height = 100><img src=images/madistem.png height = 100><img src=images/digital.png height = 100>
+<img src="images/ambassadorOutreach1.png" height = 100 width = 100> <img src=images/stemCorp.jpeg height = 100><img src=images/madistem.png height = 100><img src=images/digital.png height = 100>
 
 Throughout college I have strived to find opportunities that allow me to share my passion for tech while giving back to a community thats so important to me.  Above are photos of me teaching kids, K-12, various STEM lessons.  
 
