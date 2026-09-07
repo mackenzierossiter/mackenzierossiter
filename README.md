@@ -1,4 +1,4 @@
-Hi I'm Kenzie!👩🏼‍💻👩🏼‍🏫
+👩🏼‍💻 Mackenzie Rossiter 👩🏼‍🏫
 ==================
 
 [Personal Website](https://mackenzierossiter.github.io) | [LinkedIn](linkedIn.com/mackenzierossiter)
