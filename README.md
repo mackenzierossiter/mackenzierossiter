@@ -17,17 +17,17 @@ Hi I'm Mackenzie!  After college, I plan to work in the EdTech industry where I 
 
 * Research Assistant - [AIMe](https://github.com/JMU-CS/aime)
 
-    - James Madison University | May 2026 - Present
+    - [James Madison University](https://www.jmu.edu/cise/cs/index.shtml) | May 2026 - Present
 
 * Student Assistant, AI Literacy & Professional Development 
 
-    - James Madison University | September 2026 - Present
+    - [James Madison University](https://www.jmu.edu/coe/index.shtml) | September 2026 - Present
 
 * STEAM Specialist 
-    - Sunrise Day Camp | June 2025, 2026 - August 2025, 2026
+    - [Sunrise Day Camp](https://www.sunrisedaycamp-longisland.org/) | June 2025, 2026 - August 2025, 2026
 
 
-* Lead CS Ambassador, Tour Coordinator
+* Lead CS Ambassador, [Tour Coordinator](https://www.jmu.edu/cise/cs/people/ambassadors/index.shtml)
     - James Madison University |  August 2024 - Present
 
 * Software Engineering Intern
