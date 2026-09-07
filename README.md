@@ -40,20 +40,20 @@ Hi I'm Mackenzie!  After college, I plan to work in the EdTech industry where I 
 # My Skills
 
 ### EdTech Tools 👩🏼‍💻👩🏼‍🏫
----------
-Lego Education, Scratch, Dash and Dot Robots, GearBot, TinkerCad, Finch Robots, Ozo Bot, Microbit 
+
+- Lego Education, Scratch, Dash and Dot Robots, GearBot, TinkerCad, Finch Robots, Ozo Bot, Microbit 
 
 ### Tech Tools 🛠️
----------
-Langfuse, LiteLLM, Git, Visual Studio Code, Bitbucket, Docker, Jira, Microsoft Office 365, Google Suite
+
+- Langfuse, LiteLLM, Git, Visual Studio Code, Bitbucket, Docker, Jira, Microsoft Office 365, Google Suite
 
 ### AI Literacy Certifications 🤖
----------
-Anthropic Claude Code 101, Anthropic AI Fluency for Student
+
+- Anthropic Claude Code 101, Anthropic AI Fluency for Student
 
 ### Languages 💻
----------
-JavaScript, HTML, CSS, Python, Java, C, R
+
+- JavaScript, HTML, CSS, Python, Java, C, R
 
 
 STEM Outreach
