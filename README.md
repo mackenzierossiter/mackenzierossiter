@@ -4,6 +4,9 @@ Mackenzie Rossiter
 [Personal Website](https://mackenzierossiter.github.io) | [LinkedIn](linkedIn.com/mackenzierossiter)
 
 Contact: rossitermackenzie@gmail.com
+<div align="center">
+    <img src="images/edTechIcon.png" height=200>
+</div>
 
 
 Hi I'm Mackenzie!  After college, I plan to work in the EdTech industry where I can continue to make a difference at the intersection of Tech and Education.
